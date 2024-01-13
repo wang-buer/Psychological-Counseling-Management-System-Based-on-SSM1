@@ -1,11 +1,5 @@
 # 基于SSM的心理咨询管理管理系统
 
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**心理** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于SSM的心理咨询管理管理系统拥有三个角色：学生用户、咨询师、管理员
@@ -37,47 +31,44 @@
 
 ### 4.1 登录
 
-![登录2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262229976.jpg)
+![登录2](https://www.codeshop.fun/Typora-Images/202212262229976.jpg)
 
 ### 4.2 学生用户模块
 
-![用户-前端页面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262229759.jpg)
+![用户-前端页面](https://www.codeshop.fun/Typora-Images/202212262229759.jpg)
 
 ### 4.3 咨询师模块
 
-![咨询师-前端功能](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262229088.jpg)
+![咨询师-前端功能](https://www.codeshop.fun/Typora-Images/202212262229088.jpg)
 
-![咨询师-后端功能列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262229881.jpg)
+![咨询师-后端功能列表](https://www.codeshop.fun/Typora-Images/202212262229881.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262229242.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202212262229242.jpg)
 
-![管理员-咨询师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262229602.jpg)
+![管理员-咨询师管理](https://www.codeshop.fun/Typora-Images/202212262229602.jpg)
 
-![管理员-文章信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262229958.jpg)
+![管理员-文章信息管理](https://www.codeshop.fun/Typora-Images/202212262229958.jpg)
 
-![管理员-预约信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262229975.jpg)
+![管理员-预约信息管理](https://www.codeshop.fun/Typora-Images/202212262229975.jpg)
 
-![管理员-测试题目管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262230794.jpg)
+![管理员-测试题目管理](https://www.codeshop.fun/Typora-Images/202212262230794.jpg)
 
-![管理员-测试信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262230012.jpg)
+![管理员-测试信息管理](https://www.codeshop.fun/Typora-Images/202212262230012.jpg)
 
-![管理员-测试结果管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262230676.jpg)
+![管理员-测试结果管理](https://www.codeshop.fun/Typora-Images/202212262230676.jpg)
 
-![管理员-留言板管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262230117.jpg)
+![管理员-留言板管理](https://www.codeshop.fun/Typora-Images/202212262230117.jpg)
 
-![管理员-轮播图管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212262230792.jpg)
+![管理员-轮播图管理](https://www.codeshop.fun/Typora-Images/202212262230792.jpg)
 
-## 5、视频演示
+### 4.5 文档目录
 
-[点击播放视频，视频位于文章最后](输入链接)
+![文档目录](https://www.codeshop.fun/Typora-Images/202212282336530.jpg)
 
-## 6、获取方式
+## 获取方式
 
-关注公众号： **程序员王不二**，回复关键词  ：**心理**  ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**心理**，查看导入教程视频、sql脚本和源码等
 
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
